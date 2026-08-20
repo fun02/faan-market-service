@@ -1,4 +1,3 @@
-# copas file dari download di bawah
 /**
  * FAAN FINAL BACKEND - Dewan Analis 3 AI + Telegram Webhook
  * Groq Llama 3.3 70B (Scanner) -> DeepSeek R1 FREE (Strategist) -> Meta Llama API (Communicator) -> Telegram
